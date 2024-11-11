@@ -1,0 +1,2 @@
+# Algorithmic-Trading-System-with-AIML-Using-ML-for-Signal-Classification-Profitability-Optimisation
+An AI-powered algorithmic trading system for the Nifty50 index, using historical and real-time data to predict buy and sell signals. It leverages technical indicators and machine learning to improve trading accuracy and adaptability, aiming for better returns and risk management in volatile markets.
